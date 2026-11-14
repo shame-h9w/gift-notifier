@@ -1,0 +1,12 @@
+# локальные секреты и артефакты
+.venv/
+__pycache__/
+*.pyc
+config.local.json
+*.session
+*.session-journal
+probe*
+.phone
+.code
+.password
+local/
